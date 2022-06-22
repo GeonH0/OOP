@@ -1,0 +1,7 @@
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\Modeling\Modeling\obj\Debug\Modeling.csproj.AssemblyReference.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\Modeling\Modeling\obj\Debug\Modeling.csproj.SuggestedBindingRedirects.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\Modeling\Modeling\obj\Debug\Modeling.Form1.resources
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\Modeling\Modeling\obj\Debug\Modeling.Properties.Resources.resources
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\Modeling\Modeling\obj\Debug\Modeling.ucPanel.resources
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\Modeling\Modeling\obj\Debug\Modeling.csproj.GenerateResource.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\Modeling\Modeling\obj\Debug\Modeling.csproj.CoreCompileInputs.cache
