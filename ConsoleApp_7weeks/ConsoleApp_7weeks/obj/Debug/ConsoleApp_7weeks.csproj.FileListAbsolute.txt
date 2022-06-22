@@ -1,0 +1,8 @@
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\ConsoleApp_7weeks\ConsoleApp_7weeks\bin\Debug\ConsoleApp_7weeks.exe.config
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\ConsoleApp_7weeks\ConsoleApp_7weeks\bin\Debug\ConsoleApp_7weeks.exe
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\ConsoleApp_7weeks\ConsoleApp_7weeks\bin\Debug\ConsoleApp_7weeks.pdb
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\ConsoleApp_7weeks\ConsoleApp_7weeks\obj\Debug\ConsoleApp_7weeks.csproj.AssemblyReference.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\ConsoleApp_7weeks\ConsoleApp_7weeks\obj\Debug\ConsoleApp_7weeks.csproj.SuggestedBindingRedirects.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\ConsoleApp_7weeks\ConsoleApp_7weeks\obj\Debug\ConsoleApp_7weeks.csproj.CoreCompileInputs.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\ConsoleApp_7weeks\ConsoleApp_7weeks\obj\Debug\ConsoleApp_7weeks.exe
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\ConsoleApp_7weeks\ConsoleApp_7weeks\obj\Debug\ConsoleApp_7weeks.pdb

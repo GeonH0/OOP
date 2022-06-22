@@ -1,0 +1,8 @@
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\TEst\TEst\obj\Debug\TEst.csproj.AssemblyReference.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\TEst\TEst\obj\Debug\TEst.csproj.SuggestedBindingRedirects.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\TEst\TEst\obj\Debug\TEst.csproj.CoreCompileInputs.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\TEst\TEst\bin\Debug\TEst.exe.config
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\TEst\TEst\bin\Debug\TEst.exe
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\TEst\TEst\bin\Debug\TEst.pdb
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\TEst\TEst\obj\Debug\TEst.exe
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\TEst\TEst\obj\Debug\TEst.pdb
