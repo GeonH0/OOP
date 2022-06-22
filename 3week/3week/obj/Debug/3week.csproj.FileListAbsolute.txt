@@ -1,0 +1,8 @@
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\3week\3week\bin\Debug\3week.exe.config
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\3week\3week\bin\Debug\3week.exe
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\3week\3week\bin\Debug\3week.pdb
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\3week\3week\obj\Debug\3week.csproj.AssemblyReference.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\3week\3week\obj\Debug\3week.csproj.SuggestedBindingRedirects.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\3week\3week\obj\Debug\3week.csproj.CoreCompileInputs.cache
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\3week\3week\obj\Debug\3week.exe
+C:\Users\h2jo3\OneDrive\바탕 화면\객체지향프로그래밍\3week\3week\obj\Debug\3week.pdb
